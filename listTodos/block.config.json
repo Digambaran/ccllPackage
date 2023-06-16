@@ -1,0 +1,22 @@
+{
+  "type": "function",
+  "source": {
+    "https": "",
+    "ssh": "",
+    "branch": "block_listTodos"
+  },
+  "language": "nodejs",
+  "start": "node index.js",
+  "build": "npm run build",
+  "postPull": "npm i",
+  "name": "listTodos",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "blockId": "1HK9lyl8JdvTz_EJvDd4_",
+  "isPublic": true,
+  "repoType": "mono",
+  "parentBlockIDs": [
+    "q8ikpLqE5P0MhVK3uGHZG"
+  ]
+}
