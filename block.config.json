@@ -1,0 +1,36 @@
+{
+  "name": "ccllPackage",
+  "type": "package",
+  "source": {
+    "https": "https://github.com/Digambaran/ccllPackage.git",
+    "ssh": "git@github.com:Digambaran/ccllPackage.git",
+    "branch": "block_ccllPackage"
+  },
+  "dependencies": {
+    "listTodos": {
+      "directory": "listTodos"
+    },
+    "addTodo": {
+      "directory": "addTodo"
+    },
+    "removeTodo": {
+      "directory": "removeTodo"
+    },
+    "todoItem": {
+      "directory": "todoItem"
+    },
+    "todoInput": {
+      "directory": "todoInput"
+    },
+    "todoContainer": {
+      "directory": "todoContainer"
+    }
+  },
+  "blockId": "q8ikpLqE5P0MhVK3uGHZG",
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
