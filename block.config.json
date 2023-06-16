@@ -2,8 +2,8 @@
   "name": "ccllPackage",
   "type": "package",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/Digambaran/ccllPackage.git",
+    "ssh": "git@github.com:Digambaran/ccllPackage.git",
     "branch": "block_ccllPackage"
   },
   "dependencies": {
